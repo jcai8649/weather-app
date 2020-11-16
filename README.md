@@ -1,2 +1,2 @@
 # weather-app
-A backend weather app using the weatherstack api.
+A back-end weather app using the weatherstack api.
